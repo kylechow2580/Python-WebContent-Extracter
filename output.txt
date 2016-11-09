@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="zh-Hant-HK">
+<head>
+<title>0005.HK: HSBC HOLDINGS 撮要- Yahoo! 財經</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" xml:space="default" content=""><meta name="keywords" content=""><meta property="fb:app_id" content="118155468215844"><meta property="fb:admins" content="503762770,100001149693905"><meta property="og:type" content="company"><meta property="og:site_name" content="Yahoo! 財經"><meta property="og:title" content="匯豐控股"><meta property="og:image" content="https://s.yimg.com/lq/p/fi/31/09/00.jpg"><meta property="og:url" content="https://hk.finance.yahoo.com/q?s=0005.HK"><meta property="og:description" content=""><link rel="canonical" href="https://hk.finance.yahoo.com/q?s=0005.HK"><script>
+          window.yfinBucket = '';
+        </script>
+<link rel="stylesheet" href="https://s.yimg.com/zz/combo?kx/yucs/uh2/uh/295/css/yunivhead-min.css&amp;kx/yucs/uh2/uh/295/css/logo-min.css&amp;kx/ucs/avatar/css/17/avatar-min.css&amp;kx/yucs/uh2/mail-link/85/css/mailcount_v2-min.css&amp;kx/yucs/uh2/mail-link/85/css/mail_preview-min.css&amp;kx/ucs/search/css/190/search_all-min.css&amp;kx/ucs/search/css/190/search_buttons-min.css&amp;kx/yucs/uh2/uh/295/css/yunivhead_https-min.css&amp;kx/yucs/uh_common/meta/3/css/meta-min.css&amp;bm/lib/fi/common/p/d/static/css/2.0.356981/2.0.0/mini/yfi_quote_summary_lego_concat.css&amp;bm/lib/fi/common/p/d/static/css/2.0.356981/2.0.0/mini/yfi_symbol_suggest.css&amp;bm/lib/fi/common/p/d/static/css/2.0.356981/2.0.0/mini/yui_helper.css&amp;bm/lib/fi/common/p/d/static/css/2.0.356981/2.0.0/mini/yfi_theme_teal.css&amp;bm/lib/fi/common/p/d/static/css/2.0.356981/2.0.0/mini/HK.css&amp;bm/lib/fi/common/p/d/static/css/2.0.356981/2.0.0/mini/yfi_follow_quote.css&amp;bm/lib/fi/common/p/d/static/css/2.0.356981/2.0.0/mini/yfi_follow_stencil.css" type="text/css"><script language="javascript">
+	ll_js = new Array();
+    </script>
+</head>
+
+<body id="yfi_quote_summary_page" class="intl-hk  gsg-0">
+<div id="yfi_hd"><div class="yfi_doc yog-hd" id="yog-hd"><div class=""><style>/* customizable */
+#yUnivHead{}
+#yUnivHead .yuhead-bullet-down{background-position:right -119px;}
+
+/* font color */
+#yUnivHead {color:#fff;}
+#yUnivHead a{color:#fff;}
+#yUnivHead a:hover{color:#fff;}
+
+#yuhead-hd #yuhead-mepanel-cont #yuhead-mepanel li.yuhead-me{border-color:#fff;}
+#yuhead-hd #yuhead-com-links-cont #yuhead-com-links li.yuhead-com-link-item{border-color:#fff;}
+.yuhead-logo h2 a{color:#fff;}
+
+/* promo color */
+#yUnivHead #yuhead-promo .yucs-promo-label{color:#fff;}
+#yUnivHead #yuhead-promo a{color:#fff;}
+#yUnivHead #yuhead-promo a:hover{color:#fff;}
+
+/* background, border, gradients */
+#yUnivHead {
+    background:transparent;
+}
+/* trending promo background - match to header top background */
+#yUnivHead .yucs-trending-anim .yucs-trending-anim-fade {
+	background:transparent;
+}
+/*logos*/
+#yUnivHead .yuhead-logo h2 {background-position:-350px top;}
+/*  #yUnivHead.yucs-en-nz .yuhead-logo h2 {background-position:0px -120px;} */
+#yUnivHead .yuhead-logo h2.small {background-position:0px -360px;}</style><div id="yUnivHead" class="yucs-zh-hant-hk" data-lang="zh-hant-hk" data-property="finance" data-flight="1478709595" data-uhvc="/"> <div id="yucs-disclaimer" class="yucs-disclaimer yucs-activate yucs-hide yucs-property-finance yucs-fcb- " data-cobrand="standard" data-cu = "0" data-dsstext="想要享受更好的搜尋體驗嗎？{dssLink}將你的搜尋設為 Yahoo{linkEnd}" data-dsstext-mobile="更少的搜尋動作，更多的搜尋結果" data-dsstext-mobile-ok="確定" data-dsstext-mobile-set-search="將你的搜尋設為 Yahoo" data-dssstbtext="Yahoo is the preferred search engine for Firefox. Switch now." data-dssstb-ok="Yes" data-dssstb-no="Not Now" data-ylt-link="https://hk.search.yahoo.com/searchset?pn=" data-ylt-dssbarclose="/" data-ylt-dssbaropen="/" data-ylt-dssstb-link="https://downloads.yahoo.com/sp-firefox" data-ylt-dssstbbarclose="/" data-ylt-dssstbbaropen="/" data-ylt-dssCookieCleanedSuccess="/" data-ylt-dssCookieCleanedFailed="/" data-linktarget="_top" data-lang="zh-hant-hk" data-property="finance" data-device="Desktop" data-close-txt="關閉此視窗" data-maybelater-txt = "稍後再說" data-killswitch = "0" data-host="hk.finance.yahoo.com" data-spaceid="" data-pn="" data-dss-cookie-cleanup="" data-pn-en-ca-mobile-frontpage="" data-pn-de-de-mobile-frontpage="" data-pn-es-es-mobile-frontpage="" data-pn-fr-fr-mobile-frontpage="" data-pn-en-in-mobile-frontpage="" data-pn-it-it-mobile-frontpage="" data-pn-en-us-mobile-frontpage="" data-pn-en-sg-mobile-frontpage="" data-pn-en-gb-mobile-frontpage="" data-pn-en-us-mobile-mail="" data-pn-en-ca-mobile-mail="" data-pn-de-de-mobile-mail="" data-pn-es-es-mobile-mail="" data-pn-fr-fr-mobile-mail="" data-pn-en-in-mobile-mail="" data-pn-it-it-mobile-mail="" data-pn-en-sg-mobile-mail="" data-pn-en-gb-mobile-mail="" data-pn-pt-br-mobile-mail="" data-pn-en-us-tablet-frontpage="" data-pn-en-us-tablet-mail="" data-pn-en-ca-tablet-mail="" data-pn-de-de-tablet-mail="" data-pn-es-es-tablet-mail="" data-pn-fr-fr-tablet-mail="" data-pn-en-in-tablet-mail="" data-pn-it-it-tablet-mail="" data-pn-en-sg-tablet-mail="" data-pn-en-gb-tablet-mail="" data-pn-pt-br-tablet-mail="" data-news-search-yahoo-com="" data-answers-search-yahoo-com="" data-finance-search-yahoo-com="" data-images-search-yahoo-com="" data-video-search-yahoo-com="" data-sports-search-yahoo-com="" data-shopping-search-yahoo-com="" data-shopping-yahoo-com="" data-us-qa-trunk-news-search-yahoo-com ="" data-dss=""></div>    <a href="#yuhead-search" class="yucs-skipto-search yucs-activate">跳到搜尋欄。</a>  <div id="yuhead-hd" class="yuhead-clearfix"> <div id="yuhead-mepanel-cont"> <ul id="yuhead-mepanel" class="yucs-toolbar yucs-activate" aria-label="用戶服務"><li class="yuhead-me yuhead-nodivide yuhead-nopad"> <a class="yuhead-signup" href="https://edit.yahoo.com/config/eval_register?.src=quote&.intl=hk&.lang=zh-Hant-HK&.done=https://hk.finance.yahoo.com/q%3fs=0005%26ql=1" target="_top" rel="nofollow"> <em>新用戶？</em> 請註冊</a></li><li class="yuhead-me"> <a href="https://login.yahoo.com/config/login?.src=quote&.intl=hk&.lang=zh-Hant-HK&.done=https://hk.finance.yahoo.com/q%3fs=0005%26ql=1" target="_top" rel="nofollow"> <em>登入</em></a></li><li class="yuhead-me"><a href="http://help.cc.hk.yahoo.com/cp_info.html?product=Finance" rel="nofollow" target="_top">服務中心</a></li></ul>   </div> <div id="yuhead-promo"><a href="http://hk.yahoo.com/bin/set?cmp=uheader&src=others" target="_top" rel="nofollow">設 Yahoo 香港做首頁<abbr title="Yahoo!"></abbr></a></div> <div id="yuhead-com-links-cont"> <ul id="yuhead-com-links" class="yucs-toolbar yucs-activate" aria-label="Yahoo 網站分類">  <li class="yuhead-com-link-item yucs-mailpreview-ancestor"> <a class="sp yltasis yuhead-ico-mail" href="https://hk.mail.yahoo.com/?.intl=hk&.lang=zh-Hant-HK" rel="nofollow" target="_top">Mail</a><ul class="yucs-mail-preview-panel hide" data-uri-scheme="http" data-uri-path="ucs.query.yahoo.com/v1/console/yql" data-mail-txt="Mail" data-mail-view="查看所有 Yahoo 郵件" data-mail-help-txt="服務中心" data-mail-help-url="http://help.cc.hk.yahoo.com/help_cp.html?product=40" data-mail-loading-txt="載入中..." data-languagetag="zh-hant-hk" data-mrd-crumb="" data-authstate="signedout" data-middleauth-signin-text="按這裡查看你的郵件" data-popup-login-url="https://login.yahoo.com/config/login_verify2?.pd=c%3DOIVaOGq62e5hAP8Tv..nr5E3&.src=sc" data-middleauthtext="你有{count}封新郵件。" data-yltmessage-link="http://mrd.mail.yahoo.com/msg?mid={msgID}&fid=Inbox&src=uh&.crumb=" data-yltviewall-link="https://hk.mail.yahoo.com/" data-yltpanelshown="/"></ul></li><li class="yuhead-com-link-item"> <a href="http://hk.my.yahoo.com" rel="nofollow" target="_top"> My Yahoo </a></li><li id="yuhead-com-home"><a class="sp yuhead-ico-home" href="https://hk.yahoo.com/" rel="nofollow" target="_top">Yahoo 雅虎香港</a></li> </ul> </div> </div> <div id="yuhead-bd" class="yuhead-clearfix"> <div class="yuhead-logo"> <style> .yuhead-logo h2{ width:350px; height:40px; background-image:url(https://s.yimg.com/rz/d/yahoo_finance_zh-Hant-HK_s_f_pw_351x40_finance.png
+); _background-image:url(https://s.yimg.com/rz/d/yahoo_finance_zh-Hant-HK_s_f_pw_351x40_finance.gif
+); } .yuhead-logo a{ width:350px; height:40px; } .yuhead-logo div.yuhead-comarketing { width:350px; } .yog-tablet #yUnivHead h2 { background-position: -350px 5px !important; } html[lang='en-AU'] .yog-tablet #yUnivHead .yuhead-logo h2 { background-position: -350px 5px !important; } html[lang='en-NZ'] .yog-tablet #yUnivHead .yuhead-logo h2 { background-position: -350px 5px !important; } .yog-smartphone #yUnivHead h2 { background-position: -265px 0; background-size: 534px; margin-left: 26%; } .yog-tablet .yuhead-logo h2{ background-repeat: repeat-x; } .yog-tablet.yog-version-v2 #yUnivHead h2 { background-position: center !important; } .yog-tablet #yUnivHead .yuhead-logo h2 { height: 40px !important; } .yog-rtl.yog-smartphone #yUnivHead .yuhead-logo h2 { background-position: -352px 0; !important; background-size: 536px !important; margin-left: 30% !important; } html[lang='ar'] .yog-rtl.yog-smartphone #yUnivHead .yuhead-logo h2 { background-position: -386px 0; !important; } .yog-smartphone #yUnivHead h2.yuhead-music { background-position: 0 0 !important; width: 260px !important; } html[lang='en-US'] .yog-smartphone #yUnivHead h2 { background-size: auto 21px !important; background-position: -350px 0; } html[lang='pt-BR'] .yog-smartphone #yUnivHead h2.yuhead-sports { background-position: -265px 0 !important; background-size: 534px; margin-left: 17%; } html[lang='ar'] .yog-smartphone #yUnivHead h2.yuhead-omg { background-position: -383px 0 !important; background-size: 605px; margin-left: 0; width: auto; } html[lang='en-PH'] .yog-tablet #yUnivHead .yuhead-logo h2 { height: 47px !important; } html[lang='en-PH'] .yog-smartphone #yUnivHead h2 { width: 255px; } </style> <h2 class="yuhead-finance yuhead-standard"> <a href="https://hk.finance.yahoo.com/" target="_top" tabindex="-1"> Yahoo 財經 </a> </h2> <div id="yucs-disclaimer-md" class="yucs-disclaimer-md yucs-activate yucs-hide Desktop  yucs-property-finance yucs-fcb-" data-dsstext="想要享受更好的搜尋體驗嗎？{dssLink}將你的搜尋設為 Yahoo{linkEnd}" data-dsstext-mobile="更少的搜尋動作，更多的搜尋結果" data-dsstext-mobile-ok="確定" data-dsstext-mobile-set-search="將你的搜尋設為 Yahoo" data-ylt-link="https://hk.search.yahoo.com/searchset?pn=" data-ylt-dssbarclose="/" data-ylt-dssbaropen="/" data-linktarget="_top" data-lang="zh-hant-hk" data-property="finance" data-device="Desktop" data-close-txt="關閉此視窗" data-maybelater-txt = "稍後再說" data-killswitch = "0" data-dss=""></div><script typ="text/javascript" src="https://s.yimg.com/kx/yucs/uh3/disclaimer/274/js/disclaimer_seed-min.js"></script> </div> <div id="yuhead-search"> <div id="yuhead-sform-cont" class="yuhead-s-web yuhead-search-form"> <form role="search" class="yucs-search yucs-activate" target="_top" action="https://hk.search.yahoo.com/search" method="get"><table role="presentation"> <tbody role="presentation"><tr role="presentation"><td class="yucs-form-input" role="presentation"> <label for="yuhead-sform-searchfield"> <span>搜尋</span> </label> <input autocomplete="off" type="text" class="sp yuhead-ico-mglass yuhead-search-hint yucs-search-field" name="p" data-sh="搜尋"  data-gosurl="" id="yuhead-sform-searchfield" data-pubid="" /></td><td NOWRAP class="yucs-form-btn" role="presentation"><div class="yucs-btn-wrap"> <button class="yucs-sweb-btn" type="submit">網頁搜尋</button></div> </td> </tr> </tbody></table><input type="hidden" id="fr" name="fr" value="ush1-finance" /></form> </div> </div>  </div>               <!-- meta --><div id="yucs-meta" data-authstate="signedout" data-cobrand="standard" data-crumb="" data-mc-crumb="" data-gta="" data-device="desktop" data-experience="" data-firstname="" data-style="" data-flight="1478709595" data-forcecobrand="standard" data-guid="" data-host="hk.finance.yahoo.com" data-https="1" data-languagetag="zh-hant-hk" data-property="finance" data-protocol="https" data-shortfirstname="" data-shortuserid="" data-status="active" data-spaceid="" data-test_id="" data-userid="" data-stickyheader="true" data-headercollapse="" data-uh-test="" ></div><!-- /meta --></div></div><script type="text/javascript">
+		var yfi_dd = 'finance.yahoo.com';
+		
+			ll_js.push({
+			'file':'https://s.yimg.com/zz/combo?kx/ucs/common/js/140/setup-min.js&kx/ucs/sts/js/442/skip-min.js&kx/yucs/uh2/uh/295/js/timestamp_library-min.js&kx/ucs/menu_utils/js/164/menu_utils_v2-min.js&kx/yucs/uh2/uh/295/js/aria_toolbar-min.js&kx/ucs/username/js/43/user_menu-min.js&kx/ucs/help/js/41/help_menu-min.js&kx/ucs/utility_link/js/20/utility_menu-min.js&kx/yucs/uh2/uh/295/js/logo_debug-min.js&kx/yucs/uh3/disclaimer/388/js/disclaimer_seed-min.js&kx/ucs/common/js/131/jsonp-super-cached-min.js&kx/ucs/avatar/js/30/avatar-min.js&kx/yucs/uh2/mail-link/85/js/mailcount_v2-min.js&kx/ucs/search/js/226/search-min.js&kx/ucs/search/js/210/search_text_dir-min.js&kx/yucs/uh2/uh/295/js/activate_library-min.js&kx/yucs/uhc/meta/66/js/meta-min.js'
+			});
+		
+              if(window.LH) {
+                  LH.init({spaceid:'1186300006'});
+              }
+	</script><script type="text/javascript">
+                if(typeof YAHOO == "undefined"){YAHOO={};}
+                if(typeof YAHOO.Finance == "undefined"){YAHOO.Finance={};}
+                if(typeof YAHOO.Finance.ComscoreConfig == "undefined"){YAHOO.Finance.ComscoreConfig={};}
+                YAHOO.Finance.ComscoreConfig={ "config" : [
+                        {
+                        c5: "1186300006",
+                        c7: "https://hk.finance.yahoo.com/q?s=0005&ql=1"
+                        }
+                ] }
+                
+
+                ll_js.push({
+                            'file': 'bm/lib/fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_comscore.js',
+                            'combo' : '1'
+                });
+        </script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=7241469&amp;c4=http://hk.finance.yahoo.com/q?s=0005&amp;ql=1&amp;c5=1186300006&amp;cv=2.0&amp;cj=1"></noscript><style type="text/css">
+              .yfi-price-change-up{
+                color:#008800
+               }
+                    
+              .yfi-price-change-down{
+                color:#cc0000
+               }
+            </style></div></div><div class="ad_in_head"><div class="yfi_doc"><div style="text-align:center;"></div>
+
+</div></div><div id="y-nav"><div id="navigation" class="yom-mod yom-nav" role="navigation"><div class="bd"><div class="nav"><div class="y-nav-pri-legobg"><div id="y-nav-pri" class="nav-stack nav-0 yfi_doc"><ul class="yog-grid" id="y-main-nav"><li id="%25e4%25b8%25bb%25e9%25a0%2581"><div class="level1"><a href="/"><span>主頁</span></a></div></li><li id="%25e5%258d%25b3%25e6%2599%2582%25e8%25b2%25a1%25e7%25b6%2593%25e6%2596%25b0%25e8%2581%259e"><div class="level1"><a href="/news/"><span>即時財經新聞</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/news/economy/">經濟數據</a></li><li><a href="/news/stock-market/">股市動態</a></li><li><a href="/news/stock-news/">個股消息</a></li><li><a href="/news/company-result/">公司業績</a></li><li><a href="/news/stock-reports/">大行報告</a></li><li><a href="/news/company-ipo/">新股情報</a></li><li><a href="/news/category-currencies/">外幣新聞</a></li><li><a href="/news/properties/">地產新聞</a></li><li><a href="/news/commodities/">商品市場</a></li><li><a href="/funds/">基金專頁</a></li><li><a href="/news/warrants/">窩輪牛熊</a></li><li><a href="/news/category-features/">專題故事</a></li><li><a href="/video/">視像財經</a></li></ul></div></li><li id="%25e6%258a%2595%25e8%25b3%2587%25e5%25b0%2588%25e6%25ac%2584"><div class="level1"><a href="/contributors/"><span>投資專欄</span></a></div></li><li class="nav-fin-portfolios"><div id="y-my-portfolios" class="level1"><a id="yfmya" href="/portfolios/"><span>個人投資組合</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/portfolios/">登入個人投資組合</a></li></ul></div></li><li id="%25e6%25b8%25af%25e8%2582%25a1"><div class="level1"><a href="/hkstocks/"><span>港股</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="https://hk.finance.yahoo.com/indices?e=hkx">指數綜觀</a></li><li><a href="https://hk.finance.yahoo.com/advances">升跌概覽</a></li><li><a href="https://hk.finance.yahoo.com/actives?e=hk">20大成交量</a></li><li><a href="https://hk.finance.yahoo.com/gainers?e=hk">20大升幅</a></li><li><a href="https://hk.finance.yahoo.com/losers?e=hk">20大跌幅</a></li><li><a href="https://hk.finance.yahoo.com/q/cp?s=%5EHSI">藍籌股</a></li><li><a href="https://hk.finance.yahoo.com/q/cp?s=%5EHSCE">國企股</a></li><li><a href="https://hk.finance.yahoo.com/q/cp?s=%5EHSCC">紅籌股</a></li><li><a href="/hkstocks/adr/">ADR</a></li><li><a href="/warrants/">輪證</a></li><li><a href="/hkstocks/ahshares/">滬港通專頁</a></li><li><a href="/hkstocks/invest-forum/">今日有股講</a></li></ul></div></li><li id="%25e7%25be%258e%25e8%2582%25a1"><div class="level1"><a href="/usstocks/"><span>美股</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/news/category-globalfinance/">國際金融新聞</a></li><li><a href="https://hk.finance.yahoo.com/usadvances">升跌概覽</a></li><li><a href="https://hk.finance.yahoo.com/usactives?e=us">最大成交</a></li><li><a href="https://hk.finance.yahoo.com/usgainers?e=us">最大升幅</a></li><li><a href="https://hk.finance.yahoo.com/uslosers?e=us">最大跌幅</a></li><li><a href="https://hk.finance.yahoo.com/q/cp?s=%5EDJI">道指成份股</a></li><li><a href="https://hk.finance.yahoo.com/q/cp?s=%5EIXIC">納指成份股</a></li><li><a href="https://hk.finance.yahoo.com/futures">商品期貨</a></li></ul></div></li><li id="%25e5%25a4%2596%25e5%25b9%25a3"><div class="level1"><a href="/currencies/"><span>外幣</span></a></div></li><li id="%25e5%259f%25ba%25e9%2587%2591"><div class="level1"><a href="/funds/"><span>基金</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/funds/etf/">ETF</a></li></ul></div></li><li id="%25e5%259c%25b0%25e7%2594%25a2"><div class="level1"><a href="/properties/"><span>地產</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/news/properties/">地產新聞</a></li><li><a href="https://yahoo.real-estate.hk/">樓盤搜尋</a></li><li><a href="http://yahoo.real-estate.hk/properties/category/info/mortgage/">按揭計算</a></li><li><a href="http://yahoo.real-estate.hk/properties/category/info/markettrend/">呎價走勢圖</a></li><li><a href="/contributors/tokuhon/">脫苦海講樓</a></li><li><a href="http://yahoo.real-estate.hk/properties/category/info/">地產論壇</a></li><li><a href="/properties/feature/">樓市專題</a></li><li><a href="http://yahoo.real-estate.hk/properties/category/info/firstinfo/">一手資料</a></li><li><a href="/properties/design/">品味設計</a></li><li><a href="https://yahoo.real-estate.hk/properties/favourite.php?utm=nav">我的最愛樓盤</a></li></ul></div></li><li id="%25e7%2594%259f%25e6%25b4%25bb%25e7%2590%2586%25e8%25b2%25a1"><div class="level1"><a href="/personal-finance/"><span>生活理財</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/personal-finance/career-education/">職場管理</a></li><li><a href="/personal-finance/retirement/">退休儲蓄</a></li><li><a href="/personal-finance/wealth-management/">理財個案</a></li><li><a href="/personal-finance/bus-eng/">商業英語</a></li><li><a href="/personal-finance/calculator/">理財計算機</a></li></ul></div></li><li id="%25e8%25a6%2596%25e8%25b1%25a1"><div class="level1"><a href="/video/"><span>視象</span></a><div class="arrow"><em></em></div><div class="pointer"></div><ul class="nav-sub"><li><a href="/video/moneyfun/">錢＋樂</a></li><li><a href="/video/lecture/">財經教室</a></li></ul></div></li></ul></div></div>         </div></div></div><script>
+        
+        (function(el) {
+            function focusHandler(e){
+                if (e && e.target){
+                    e.target == document ? null : e.target;
+                    document.activeElement = e.target;
+                }
+            }
+            // Handle !IE browsers that do not support the .activeElement property
+            if(!document.activeElement){
+                if (document.addEventListener){ 
+                    document.addEventListener("focus", focusHandler, true);
+                }
+            }
+        })(document);
+        
+        </script><div class="y-nav-legobg"><div class="yfi_doc"><div id="y-nav-sec" class="clear"><div id="searchQuotes" class="ticker-search mod" mode="search"><div class="hd"></div><div class="bd"><form id="quote" name="quote" action="/q"><h2 class="yfi_signpost">搜尋股價</h2><label for="txtQuotes">搜尋股價</label><input id="txtQuotes" name="s" value="" type="text" autocomplete="off" placeholder="查詢代號"><input id="get_quote_logic_opt" name="ql" value="1" type="hidden" autocomplete="off"><div id="yfi_quotes_submit"><span><span><span><input type="submit" value="查詢股價" id="btnQuotes" class="rapid-nf"></span></span></span></div></form></div><div class="ft"><!-- this is required only for the yoda pages, /page/settings/@page is available only on yoda pages --><div class="report_issue"><a href="https://yahoo.uservoice.com/forums/170319-%E9%9B%85%E8%99%8E%E9%A6%99%E6%B8%AF%E8%B2%A1%E7%B6%93/category/85015-%E8%B3%87%E6%96%99%E6%BA%96%E7%A2%BA%E5%BA%A6" class="Fz-xs" target="_blank">報告問題</a></div><div class="strmg_bar_top streaming_toggle"><div id="yfi_streaming_quotes"></div></div><div class="mkt_time"><p><span id="yfs_market_time">2016年11月10日, 星期四, 香港標準時間 00:39 - 香港股市 將在 8 小時 51 分鐘 開市</span></p></div></div></div></div></div></div></div>
+<div id="yfi_doc"><div id="yfi_bd">
+<span id="yfs_ad_" ></span><div id="marketindices">&nbsp;<span><a href="/q?s=%5EHSI">恆生指數</a></span>&nbsp;<span><img width="10" height="14" style="margin-right:-2px;" border="0" src="https://s.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="neg_arrow" alt="下跌"> <b class="
+                yfi-price-change-down
+            ">2.16%</b></span></div>
+<div id="yfi_investing_nav"><div class="hd"><h2>更多資訊 0005.HK</h2></div><div class="bd"><h3>報價</h3><ul><li class="selected">撮要</li><li class="deselected">期權</li><li class="deselected">期貨鏈</li><li><a href="/q/hp?s=0005.HK">過往股價及派息</a></li></ul><h3>圖表</h3><ul><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=1d">互動式</a></li><li><a href="/q/bc?s=0005.HK">基本圖表</a></li><li><a href="/q/ta?s=0005.HK">基本技術分析</a></li></ul><h3>新聞與資訊</h3><ul><li><a href="/q/h?s=0005.HK">頭條新聞</a></li><li class="deselected">公司活動</li></ul><h3>公司</h3><ul><li><a href="/q/pr?s=0005.HK">概況</a></li><li><a href="/q/ks?s=0005.HK">主要統計數據</a></li><li><a href="/q/bo?s=0005.HK">業務展望</a></li><li><a href="/q/br?s=0005.HK">業務回顧</a></li><li class="deselected">美國證券交易委員會申報文件</li><li class="deselected">競爭對手</li><li><a href="/q/in?s=0005.HK">行業</a></li><li class="deselected">組成部分</li></ul><h3>分析師報導</h3><ul><li><a href="/q/ao?s=0005.HK">分析師觀點</a></li><li><a href="/q/ae?s=0005.HK">分析師預測</a></li></ul><h3>股權</h3><ul><li><a href="/q/it?s=0005.HK">內幕交易</a></li></ul><h3>財務狀況</h3><ul><li><a href="/q/is?s=0005.HK&amp;annual">損益表</a></li><li><a href="/q/bs?s=0005.HK&amp;annual">資產負債表</a></li><li><a href="/q/cf?s=0005.HK&amp;annual">現金流量</a></li></ul></div><div class="ft"></div></div><div id="yfi_investing_content"><div class="yui-g bb-0"><script>
+	    document.domain='finance.yahoo.com';
+	</script><div id="yfi_broker_buttons"><div id="yfi_broker_buttons_original" class="clearfix"><!-- SpaceID=0 robot -->
+</div><div id="yfi_broker_banners" class="clearfix yfi-broker-banners"><div class="banner-strip"></div></div></div></div><div class="rtq_div"><div class="yui-g"><div class="yfi_rt_quote_summary" id="yfi_rt_quote_summary"><div class="hd"><div class="title"><h2>匯豐控股 (0005.HK)</h2> <span class="rtq_exch"><span class="rtq_dash">-</span>HKSE  </span><span class="wl_sign"></span></div></div><div class="yfi_rt_quote_summary_rt_top sigfig_promo_0"><div> <span class="time_rtq_ticker"><span>58.000</span></span> <span class="down_r time_rtq_content"><span><img width="10" height="14" style="margin-right:-2px;" border="0" src="https://s.yimg.com/os/mit/media/m/base/images/transparent-1093278.png" class="neg_arrow" alt="下跌">   1.100</span><span>(1.861%)</span> </span><span class="time_rtq"> <span><span>11月9日, 星期三, 16:08</span></span></span></div><div></div></div><div id="yfi_toolbox_mini_rtq"><span class="fb-like-button"></span><script type="text/javascript">
+                            ll_js.push({
+                                'script':function(){
+                                    YUI().use('node', function (Y) {
+                                        var iframe = Y.Node.create('<iframe src="https://www.facebook.com/plugins/like.php?href=http://hk.finance.yahoo.com%2Fq%3Fs%3D0005.HK&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21&amp;width=100&amp;locale=zh_HK" scrolling="no" frameborder="0" allowTransparency="true" style="height:21px; width:105px;"></iframe>');
+                                        Y.one(".fb-like-button").append(iframe);
+                                    });
+                                }
+                            });
+                        </script><span><a name="reload_icon_anchor" class="reload-icon"></a></span><script language="javascript">
+                        ll_js.push({
+                        'file': ' https://s.yimg.com/bm/lib/fi/common/p/d/static/js/2.0.356981/2.0.0/yfi_reload_page.js '
+                        });
+                    </script></div></div></div></div><div class="yui-u first yfi-start-content"><div class="yfi_quote_summary"><div id="yfi_quote_summary_data" class="rtq_table"><table id="table1"><tr><th scope="row" width="48%">前收市價:</th><td class="yfnc_tabledata1">59.100</td></tr><tr><th scope="row" width="48%">開市:</th><td class="yfnc_tabledata1">59.400</td></tr><tr><th scope="row" width="48%">買入價:</th><td class="yfnc_tabledata1">不適用</td></tr><tr><th scope="row" width="48%">賣出價:</th><td class="yfnc_tabledata1">不適用</td></tr><tr><th scope="row" width="48%">1年指標(預估值):</th><td class="yfnc_tabledata1">不適用</td></tr><tr><th scope="row" width="48%">Beta 值:</th><td class="yfnc_tabledata1">不適用</td></tr><tr><th scope="row" width="54%">下一個盈利日:</th><td class="yfnc_tabledata1">不適用</td></tr></table><table id="table2"><tr><th scope="row" width="48%">今日波幅:</th><td class="yfnc_tabledata1"><span><span>56.600</span></span> - <span><span>59.450</span></span></td></tr><tr><th scope="row" width="48%">52 週波幅:</th><td class="yfnc_tabledata1"><span>44.500</span> - <span>63.000</span></td></tr><tr><th scope="row" width="48%">成交量:</th><td class="yfnc_tabledata1"><span>57,682,717</span></td></tr><tr><th scope="row" width="48%">平均成交量 <span class="small">(3 個月)</span>:</th><td class="yfnc_tabledata1">25,377,800</td></tr><tr><th scope="row" width="48%">市值:</th><td class="yfnc_tabledata1"><span>1.03T</span></td></tr><tr><th scope="row" width="48%">P/E <span class="small">(ttm)</span>:</th><td class="yfnc_tabledata1">11.510</td></tr><tr><th scope="row" width="48%">每股盈利 <span class="small">(ttm)</span>:</th><td class="yfnc_tabledata1">5.038</td></tr><tr class="end"><th scope="row" width="48%">股利與收益率:</th><td class="yfnc_tabledata1">3.953 (6.680%) </td></tr></table></div></div><div id="ecn_warning" class="lalign-0">除非特別註明，否則延遲報價。 貨幣 : HKD<style>
+		    #yfi_quote_summary_page #ecn_warning {
+		        border:none !important;
+			padding-left:0 !important;
+			margin:5px 0 13px !important;
+		    }
+		    </style></div><div id="yfi_headlines" class="yfi_quote_headline"><div class="hd"><h2 class="inline">相關新聞</h2></div><div class="bd"><ul><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E6%91%A9%E9%80%9A%E4%B8%83-%E8%B3%BC-11194-%E7%8F%BE%E5%A0%B1-070254854.html" data-ylk="cp:dbpower;o:i;">匯豐摩通七一購Ａ (11194) 現報 0.55港元，下跌 17.91 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 15:02)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E6%B3%95%E8%88%88%E4%B8%83%E4%BA%8C%E8%B3%BC-11180-%E7%8F%BE%E5%A0%B1-0-070130458.html" data-ylk="cp:dbpower;o:i;">匯豐法興七二購Ｂ (11180) 現報 0.71港元，下跌 16.47 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 15:01)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E6%B5%B7%E9%80%9A%E4%B8%83%E5%9B%9B%E6%B2%BD-13060-%E7%8F%BE%E5%A0%B1-0-064448942.html" data-ylk="cp:dbpower;o:i;">匯豐海通七四沽Ｂ (13060) 現報 0.165港元，上升 35.25 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 14:44)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E9%BA%A5%E9%8A%80%E4%B8%83%E4%BA%94%E8%B3%BC-13399-%E7%8F%BE%E5%A0%B1-0-061946500.html" data-ylk="cp:dbpower;o:i;">匯豐麥銀七五購Ｂ (13399) 現報 0.3港元，下跌 33.33 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 14:19)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E6%B5%B7%E9%80%9A%E4%B8%83%E5%85%AD%E6%B2%BD-11666-%E7%8F%BE%E5%A0%B1-0-061435736.html" data-ylk="cp:dbpower;o:i;">匯豐海通七六沽Ａ (11666) 現報 0.055港元，上升 22.22 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 14:14)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E7%91%9E%E4%BF%A1%E5%85%AD%E4%B9%99%E8%B3%BC-11233-%E7%8F%BE%E5%A0%B1-0-061200444.html" data-ylk="cp:dbpower;o:i;">匯豐瑞信六乙購Ｂ (11233) 現報 0.55港元，下跌 21.43 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 14:12)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E7%91%9E%E9%8A%80%E4%B8%83-%E6%B2%BD-12353-%E7%8F%BE%E5%A0%B1-053638969.html" data-ylk="cp:dbpower;o:i;">匯豐瑞銀七一沽Ｂ (12353) 現報 0.025港元，上升 38.89 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 13:36)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E7%91%9E%E9%8A%80%E4%B8%83-%E6%B2%BD-12353-%E7%8F%BE%E5%A0%B1-053403703.html" data-ylk="cp:dbpower;o:i;">匯豐瑞銀七一沽Ｂ (12353) 現報 0.023港元，上升 27.78 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 13:34)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E6%B5%B7%E9%80%9A%E4%B8%83%E5%9B%9B%E8%B3%BC-13059-%E7%8F%BE%E5%A0%B1-0-052917264.html" data-ylk="cp:dbpower;o:i;">匯豐海通七四購Ａ (13059) 現報 0.042港元，下跌 23.64 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 13:29)</span></cite></li><li><a href="https://hk.finance.yahoo.com/news/%E6%99%BA%E7%8F%A0-%E5%8C%AF%E8%B1%90%E6%B3%95%E5%B7%B4%E4%B8%83%E4%B9%99%E8%B3%BC-12966-%E7%8F%BE%E5%A0%B1-0-052340211.html" data-ylk="cp:dbpower;o:i;">匯豐法巴七乙購Ｂ (12966) 現報 0.146港元，下跌 19.78 %</a><cite>dbpower<span>(2016年11月9日, 星期三, 13:23)</span></cite></li></ul></div><div class="ft"><a class="view_more" href="/q/h?s=0005.HK&amp;t=2016-11-09T15:02:54+08:00">
+    				 » 更多關於 0005.HK 的 相關新聞</a></div></div></div><div class="yui-u rr" style="width:300px;float:left;"><div class="yfi_summary_chart" style="float:none;" id="yfi_summary_chart"><div class="chart"><a href="echarts?s=0005.HK#symbol=0005.HK;range=1d"><img src="https://chart.finance.yahoo.com/t?s=0005.HK&amp;lang=zh-Hant-HK&amp;region=HK&amp;width=300&amp;height=180" alt="匯豐控股 (0005.HK)" width="300" height="180"></a><div id="display_links" class="display_links"><ul><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=1d">1日</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=5d">5日</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=1m">1個月</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=3m">3個月</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=6m">6個月</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=1y">1年</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=2y">2年</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=5y">5年</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range=my">最大</a></li><li><a href="/echarts?s=0005.HK#symbol=0005.HK;range="></a></li></ul></div></div></div><div id="yfi_ads_lrec"><!-- SpaceID=0 robot -->
+</div><!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+<div id="yfi_key_stats" class="yfi_suplimental_datum"><div class="hd"><h2>主要統計數據</h2></div><div class="bd"><table><tr><th scope="row" width="50%">預估市盈率 <small>(1 年)</small>:</th><td class="yfnc_tabledata1">不適用</td></tr><tr><th scope="row" width="50%">股價營銷率 <small>(ttm)</small>:</th><td class="yfnc_tabledata1">20.410</td></tr><tr><th scope="row" width="50%">除息日:</th><td class="yfnc_tabledata1">不適用</td></tr></table></div><div class="ft"><a href="/q/ks?s=0005.HK">&#187; 更多主要統計數據</a></div></div><div id="yfi_analysts" class="yfi_suplimental_datum"><div class="hd"><h2>分析師</h2></div><div class="bd"><table><tr><th scope="row" width="50%">年度每股盈利預估<small>
+                      (12月-12)
+                    </small>:</th><td class="yfnc_tabledata1">不適用</td></tr><tr><th scope="row" width="50%">季度 EPS 預估<small>
+                      (0-00-31)
+                    </small>:</th><td class="yfnc_tabledata1">不適用</td></tr><tr><th scope="row" width="50%">平均評價*:</th><td class="yfnc_tabledata1">2.200</td></tr><tr><th scope="row" width="50%">盈利增長率 <small>(5年預期)</small>:</th><td class="yfnc_tabledata1">不適用</td></tr></table></div><div class="ft"><p>* (強力買進) 1.0 - 5.0 (賣出)</p><a href="/q/ao?s=0005.HK">分析師觀點</a> | 
+                        <a href="/q/ae?s=0005.HK">預估值</a></div></div><div id="yfi_business_summary"><div class="hd"><h2>商業撮要</h2></div><div class="bd">集團透過零售銀行及財富管理、工商業務、環球銀行及資本市場和環球私人銀行這四大環球業務向客戶提供各項產品和服務。 <a href="/q/pr?s=0005.HK" class="view_more">更多內容</a></div><div class="ft"><a href="/q/pr?s=0005.HK">公司簡介</a> | <a href="/q/in?s=0005.HK">行業</a></div></div><span id="yfs_ad_" ></span><div id="yfi_toolbox" class="yfi_suplimental_datum"><div class="hd"><h2>工具箱</h2></div><div class="bd"><ul><li class="save"><a href="http://download.finance.yahoo.com/d/quotes.csv?s=0005.HK&amp;f=sl1d1t1c1ohgv&amp;e=.csv">下載資料（已延遲）</a></li><li class="mobile"><a href="http://hk.mobile.yahoo.com/finance">在手機更新</a></li></ul></div><div class="ft"></div></div><!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+</div></div><div class="yfi_ad_s"></div></div>
+</div>
+<div id="yfi_ft"><div id="y-footer"><div class="footer_copyright"><div class="yfi_doc"><div class="footer_legal">版權所有 &amp;copy; 2009 Yahoo! All rights reserved.</div><div class="footer_legal"></div><div class="footer_disclaimer"><p>Quotes are <strong>real-time</strong> for NASDAQ, NYSE, and NYSE MKT. See also delay times for <a href="http://help.yahoo.com/l/us/yahoo/finance/quotes/fitadelay.html">other exchanges</a>. All information provided "as is" for informational purposes only, not intended for trading purposes or advice. Neither Yahoo! nor any of independent providers is liable for any informational errors, incompleteness, or delays, or for any actions taken in reliance on information contained herein. By accessing the Yahoo! site, you agree not to redistribute the information found therein.</p><p>Capital IQ, Morning Star</p></div></div></div></div></div>
+<div id="spaceid" style="display:none;">1186300006</div><script type="text/javascript">
+                if(typeof YAHOO == "undefined"){YAHOO={};}
+                if(typeof YAHOO.Finance == "undefined"){YAHOO.Finance={};}
+                if(typeof YAHOO.Finance.SymbolSuggestConfig == "undefined"){YAHOO.Finance.SymbolSuggestConfig=[];}
+
+                    YAHOO.Finance.SymbolSuggestConfig.push({
+                        dsServer:'https://s.yimg.com/aq/autoc',
+                        dsRegion:'HK',
+                        dsLang:'zh-Hant-HK',
+                        dsFooter:'<div class="moreresults"><a class="[[tickdquote]]" href="https://hk.finance.yahoo.com/lookup?s=[[link]]">顯示所有[[tickdquote]]的報價結果</a></div><div class="tip"><em>小密技：</em> 使用逗號 (,) 來分隔多個報價。<a href="http://help.yahoo.com/l/us/yahoo/finance/quotes/quotelookup.html">瞭解更多...</a></div>',
+                        acInputId:'txtQuotes',
+                        acInputFormId:'quote',
+                        acContainerId:'quoteContainer',
+                        acModId:'mediaquotessearch',
+			acInputFocus:'1'
+                    });
+				</script><script type="text/javascript" src="https://s.yimg.com/ss/rapid-3.38.js"></script><script type="text/javascript" src="https://s.yimg.com/bm/combo?fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yui-min-3.5.1.js&amp;fi/common/p/d/static/js/2.0.356981/yui_2.8.0/build/yuiloader-dom-event/2.0.0/mini/yuiloader-dom-event.js&amp;fi/common/p/d/static/js/2.0.356981/yui_2.8.0/build/container/2.0.0/mini/container.js&amp;fi/common/p/d/static/js/2.0.356981/yui_2.8.0/build/datasource/2.0.0/mini/datasource.js&amp;fi/common/p/d/static/js/2.0.356981/yui_2.8.0/build/autocomplete/2.0.0/mini/autocomplete.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/ylc_1.9.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_loader.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_symbol_suggest.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_init_symbol_suggest.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_nav_topnav_init.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_nav_topnav.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_nav_portfolio.js&amp;fi/common/p/d/static/js/2.0.356981/yui_2.8.0/build/get/2.0.0/mini/get.js&amp;fi/common/p/d/static/js/2.0.356981/2.0.0/mini/yfi_lazy_load.js"></script><script language="javascript">
+	YUI.YUICfg = {"base":"https:\/\/s.yimg.com\/","comboBase":"https:\/\/s.yimg.com\/zz\/combo?","combine":true,"allowRollup":true,"maxURLLength":"2000"}
+	YUI.YUICfg.root = 'yui:'+YUI.version+'/build/';
+	YUI.applyConfig(YUI.YUICfg); 
+    </script><span style="display:none" id="yfs_enable_chrome">1</span><script type="text/javascript">
+		// set side nav height
+		(function() {
+			var nav = YAHOO.util.Dom.get("yfi_investing_nav");
+			if (nav) {
+				var content = YAHOO.util.Dom.get("yfi_investing_content");
+				if (nav.offsetHeight < content.offsetHeight) {
+					nav.style.height = content.offsetHeight + "px";
+				}
+			}
+		}());		
+	</script><span id="yfs_ad_" ></span><!--
+    	    Begin : Page level configs for rapid 
+	    Configuring modules for a page in one place because having a lot of inline scripts will not be good for performance
+	--><script type="text/javascript">
+	    window.RAPID_ULT ={
+		tracked_mods:{
+		    'navigation':'Navigation',
+		    'marketindices' : 'Market Indices',
+		    'yfi_investing_nav' : 'Left nav',
+		    'yfi_rt_quote_summary' : 'Quote Summary Bar',
+		    'yfi_related_tickers' : 'Related Tickers',
+		    'searchQuotes':'Quote Bar',
+		    'yfi_summary_chart' : 'Baby chart on QSP',
+		    'yfi_tradenow' : 'Trade Now',
+		    'yfi_compare_broker_btn' : 'Compare Broker',
+		    'yfi_tech_ticker' : 'Exclusives',
+		    'yfi_headlines' : 'Headlines',
+		    'yfi_press_releases' : 'Press Releases',
+		    'yfi_comparison' : 'Comparison',
+		    'yfi_key_stats' : 'Key Statistics',
+		    'yfi_analysts' : 'Analysts',
+		    'yfi_business_summary' : 'Business Summary',
+		    'yfi_toolbox' : 'Toolbox',
+		    'yfi_rel_videos' : 'Related Videos',
+		    'yfi_ft' : 'Footer'
+		},
+		page_params:{
+		    'pstcat' : 'Quotes',
+		    'pt' : 'Quote Leaf Pages',
+		    'pstth' : 'Quote Summary Page'
+		}
+	    }
+	</script><script type="text/javascript">
+                if(window.RAPID_ULT) {
+                    var conf = {
+                        compr_type:'deflate',
+                        tracked_mods:window.RAPID_ULT.tracked_mods,
+                        keys:window.RAPID_ULT.page_params,
+                        spaceid:1186300006,
+                        client_only:0,
+                        webworker_file:"\/__rapid-worker-1.2.js",
+                        nofollow_class:'rapid-nf',
+                        test_id:'',
+                        ywa: {
+                            project_id:10001142717479,
+                            document_group:"",
+                            document_name:'0005.HK',
+                            host:'y.analytics.yahoo.com'
+                        }
+                    };
+                    YAHOO.i13n.YWA_CF_MAP = {"q":118,"qlen":29,"symbol":119,"symbolLen":30,"assetCls":120,"act":19,"ct":20,"hpset":11,"intl":12,"lang":13,"mcode":24,"mid":21,"n":33,"outcm":22,"pkg":23,"pstaid":10,"pstcat":8,"pt":9,"so":32,"src_pty":36,"tar":28,"test":14,"tn":34,"tntw":17,"version":18,"woe":35};
+                    YAHOO.i13n.YWA_ACTION_MAP = {"hswipe":36,"nav_clicked":21,"secvw":1};
+                    YAHOO.i13n.YWA_OUTCOME_MAP = {};
+                    window.rapidTracker = new YAHOO.i13n.Rapid(conf); //Making rapiTracker a global variable because it might be needed by other module js
+                }
+        </script><script>
+    var aft_beacon_callback = function() {
+        if (window.LH !== undefined && Math.floor(Math.random()*100) <= 3) {
+            if (!window.LH.isInitialized) {
+                window.LH.init(
+                {
+                    spaceid:'1186300006', //your space id goes here
+                    serverip:'',
+                    pvid:'',
+                    crumb:''
+                });
+            }
+        } 
+        if (window.YAFT !== undefined) {
+            var show_report = (window.location.href.indexOf('showaft=') != -1) ? 1 : 0;
+            var aft_mods = [],
+            each_mod = '';
+            var mods = window.RAPID_ULT.tracked_mods; //Reusing the module list from rapid
+            for (each_mod in mods) {
+                aft_mods.push(each_mod)
+            }
+            window.YAFT.init(
+            {
+                modules: aft_mods,
+                modulesExclude: ['yfi_ft'],
+                useNativeStartRender: true,
+                canShowVisualReport: show_report, //make it configurable and 1 for YNET users
+                maxWaitTime: 5000 // make it configurable
+            }, function (data, error) {
+                if (!error) {
+                    var rapidPerfData = {
+                        'perf_navigationtime':2,
+                        'perf_commontime': {
+                            'initialPageLoad' : {
+                                'AFT': Math.round(data.aft),
+                                'AFT1': Math.round(data.aft),
+                                'STR': Math.round(data.startRender),
+                                'VIC': Math.round(data.visuallyComplete),
+                                'DOMC': Math.round(data.domElementsCount),
+                                'HTTPC': Math.round(data.httpRequests.count),
+                                'CP': Math.round(data.totalCoveragePercentage),
+                                'NCP': Math.round(data.normTotalCoveragePercentage)
+                            }
+                        },
+                    };
+                    window.rapidTracker.beaconPerformanceData(rapidPerfData, window.RAPID_ULT.page_params)
+                    if (window.LH !== undefined && window.LH.isInitialized) {
+                        //UH might initilized LH or above cases satisfied. Now configure YAFT
+                        window.LH.tag("b",
+                        {
+                            val: '' //set your bucket id
+                        });
+                        window.LH.record('AFT', {
+                            name: 'AFT', type: 'mark', startTime: Math.round(data.aft), duration: 0
+                        });
+                        window.LH.record('VIC', {
+                            name: 'VIC', type: 'mark', startTime: Math.round(data.visuallyComplete), duration: 0
+                        });
+                        //this is for darla ads
+                        if ( window.___adLT___ !== undefined && window.___adLT___.length && window.___adLT___.length > 0) {
+                            for (var __i__ = 0; __i__ < ___adLT___.length; __i__++) {
+                                window.LH.record(___adLT___[__i__][0], {
+                                    name: ___adLT___[__i__][0], type: 'mark', startTime: ___adLT___[__i__][1], duration: 0
+                                });
+                            }
+                        }
+                        //finally fire all LH beacons
+                        window.LH.beacon( {
+                            clearMarks:false, clearMeasures: false, clearCustomEntries: true, clearTags: false
+                        });
+                    }
+                }
+            });
+        }
+    }
+    YAHOO.util.Get.script('https://s.yimg.com/zz/combo?aj/lh-0.9.js&os/yaft/yaft-0.3.6.min.js&os/yaft/yaft-plugin-aftnoad-0.1.3.min.js', {
+        onSuccess: aft_beacon_callback
+    });
+</script></body>
+</html>
+<!-- xslt1.finance.sg3.yahoo.com uncompressed/chunked Wed Nov  9 16:39:55 UTC 2016 -->
+<!-- c3.finance.sg3.yahoo.com uncompressed/chunked Thu Nov 10 00:39:55 HKT 2016 -->
