@@ -13,3 +13,5 @@ P.s
 -> No ERROR handling in this version of program
 
 -> In the end of the program, it will output an "output.txt" for the whole html file.
+
+![untitled](https://cloud.githubusercontent.com/assets/10007461/20146553/54d6c80c-a6df-11e6-8406-30722f5dddd0.png)
